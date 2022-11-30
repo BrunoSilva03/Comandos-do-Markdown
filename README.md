@@ -394,8 +394,8 @@ Você pode usar emojis no padrão markdown que é digitando dois pontos mais o n
 :fire:
 
 ou da maneira mais simples que é usar os recursos do próprio computador para colocar o emoji.
-Se estiver usando o Windows tecle **Windows** mais **.** que irá abrir o menu de emojis e você escolhe quais e quantos quiser.
-_Se for o mac seria **command** mais **.**_
+Se estiver usando o Windows tecle **Windows** mais **.** (ponto) que irá abri  a lista de emojis do windows, então você escolhe quantos e quais quiser.
+_Se for o mac seria **command** mais **.**_(ponto)
 
 **Exemplo**
 
