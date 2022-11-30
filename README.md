@@ -3,10 +3,14 @@
 
 # Títulos:
 
-Para criar títulos, use a Hashtag.
+Para criar títulos, use  a Hashtag
+
 1 Hashtag = título principal
+
 2 Hashtags = subtítulo
+
 3 Hashtags = subtítulo do subtítulo e assim por diante...
+
 
 **Exemplo:**
 
